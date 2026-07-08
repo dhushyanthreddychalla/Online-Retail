@@ -63,8 +63,7 @@ bash   # Using Python
    # Or using VS Code Live Server extension
 
 
-Visit http://localhost:8000 and explore the dashboard.
-
+online-retail-vert.vercel.app
 
 
 📊 About the Dataset
