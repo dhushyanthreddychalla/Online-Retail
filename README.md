@@ -4,7 +4,7 @@ An interactive, front-end analytics dashboard that performs Customer Segmentatio
 
 The dashboard turns raw transactional data into actionable business insight: who your best customers are, who's at risk of churning, and how revenue trends over time — all inside a single, self-contained, dependency-light web app.
 
-🔗 Live Demo: [online-retail-vert.vercel.app]
+🔗 Live Demo: online-retail-vert.vercel.app
 
 
 ✨ Features
@@ -49,7 +49,7 @@ No installation required.
 Clone the repository
 
 
-bash   git clone https://github.com/<your-username>/Online-Retail.git
+bash   git clone https://github.com/dhushyanthreddychalla/Online-Retail.git
    cd Online-Retail
 
 
@@ -108,11 +108,11 @@ Combining these scores allows businesses to identify high-value customers, spot 
 
 👤 Author
 
-Dhushyanth Challa (Sai)
+Dhushyanth Challa 
 Final-year B.Tech CSE | Aspiring Full-Stack / SDE
 🔗 GitHub · LinkedIn
 
 
 📄 License
 
-This project is open source and available under the MIT Licens
+This project is open source and available under the MIT License.
