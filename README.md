@@ -111,7 +111,8 @@ Combining these scores allows businesses to identify high-value customers, spot 
 Dhushyanth Challa 
 Final-year B.Tech CSE | Aspiring Full-Stack / SDE
 🔗 GitHub · LinkedIn
-
+https://github.com/dhushyanthreddychalla
+https://www.linkedin.com/in/dhushyanth-reddy-challa/
 
 📄 License
 
